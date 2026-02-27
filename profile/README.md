@@ -28,7 +28,7 @@ If you have any problems installing the mod or want to create a suggestion, plea
 [Fangkuai](https://github.com/FangkuaiYa)  
 
 ### Translators
-[LezaiYa](https://github.com/LezaiYa)  
+~~[LezaiYa](https://github.com/LezaiYa)~~  
 [Fangkuai](https://github.com/FangkuaiYa)  
 [NK](https://github.com/endrmen9487)  
 [yuunozikkyou](https://github.com/yuunozikkyou)  
